@@ -1,6 +1,6 @@
 # AndroidStudy
 
-## 회사에서 했었던 부분들 복습
+## 학습 부분들 복습
 
 1. 코코트리 
 - Slide 되는 View (animation 효과를 준 view)
